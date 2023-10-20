@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/japarejo"><img src="https://api.daily.dev/devcards/77c8503fbf7245e6ba233f9ef2d9ab70.png?r=60k" width="400" alt="japarejo's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/japarejo/japarejo/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a
 
 - 👋 Hi, I’m @japarejo
 - 👀 I’m interested in software engineering, IA, guitar, and video-games.
