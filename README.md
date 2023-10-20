@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/DailyDevTips">
-  <img src="https://github.com/japarejo/japarejo/raw/master/devcard.svg" width="400" alt="J. A. Parejo's Dev Card"/>
+  <img src="https://raw.githubusercontent.com/japarejo/japarejo/main/devcard.svg" width="400" alt="J. A. Parejo's Dev Card"/>
 </a
 
 - 👋 Hi, I’m @japarejo
