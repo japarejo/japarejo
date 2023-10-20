@@ -9,4 +9,5 @@
 <a href="https://app.daily.dev/DailyDevTips">
   <img src="https://raw.githubusercontent.com/japarejo/japarejo/main/devcard.svg" width="400" alt="J. A. Parejo's Dev Card"/>
 </a>
+
 [![JAParejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=japarejo)](https://github.com/anuraghazra/github-readme-stats)
