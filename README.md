@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m José Antonio Parejo, a.k.a. @japarejo</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![JAParejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=japarejo)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in software engineering, IA, guitar, and video-games.
 - You can read [my research papers here](https://scholar.google.com/citations?user=1vZmkFIAAAAJ)
